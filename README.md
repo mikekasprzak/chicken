@@ -1,2 +1,2 @@
 # chicken (2014/2015 version)
-[[https://github.com/povrazor/chicken/blob/master/chickens-2015.png|alt=Chickens_2015]]
+![Chickens 2015](https://github.com/povrazor/chicken/raw/master/chickens-2015.png)
